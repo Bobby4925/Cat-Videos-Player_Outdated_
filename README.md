@@ -1,3 +1,3 @@
-# Vite-With-React-and-Express
+# Cat Videos Player
 
-This is a template for a project using Vite with React JS and Express JS 
+Some project I worked on when I was newer to coding, fork if you want ig
